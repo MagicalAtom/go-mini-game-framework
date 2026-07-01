@@ -1,0 +1,1 @@
+A lightweight, experimental 2D game framework built in Go. Features a custom event-driven architecture, generic type-safe hooks, and a property-based component system powered by Raylib
